@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.Arrays;
 import java.util.Collection;
 
-public class NumberRangeSummarizerImplTest {
+public class NumberRangeSummarizerImplementationTest {
 
     private final NumberRangeSummarizer summarizer = new NumberRangeSummarizerImplementation();
 
